@@ -5,7 +5,7 @@ Pandas Challenge
 
 This challenge dealt with in-game transactions for an online game called Heroes of Pymoli. I was provided a csv file with transactions and tasked with sorting and grouping the data by gender, player, and item purchased using pandas. 
 
-### Observations
+#### Observations
 
 1) Individuals between 20-24 represented the largest group to make purchases by a wide margin. 15-29 contains the vast majority of all individuals making purchases, suggesting that teenagers, college-age individuals, and young adults is a worthwhile target audience for their in-game transactions. 
 
