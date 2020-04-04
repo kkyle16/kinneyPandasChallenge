@@ -1,9 +1,9 @@
 # Pandas Challenge
-Pandas Challenge
+Pandas Challenge using Jupyter
 
 ### Heroes of Pymoli
 
-This challenge dealt with in-game transactions for an online game called Heroes of Pymoli. I was provided a csv file with transactions and tasked with sorting and grouping the data by gender, player, and item purchased using pandas. 
+This challenge dealt with in-game transactions for an online game called Heroes of Pymoli. I was provided a csv file with transactions and tasked with sorting and grouping the data by gender, player, and item purchased using pandas built in Jupyter Notebook. 
 
 #### Observations
 
